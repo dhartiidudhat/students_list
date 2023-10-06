@@ -1,1 +1,0 @@
-this project is about my portfolio where i show my all education details in it also show mmy experience in it.
